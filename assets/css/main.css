@@ -3228,5 +3228,15 @@ input, select, textarea {
 		padding: 20px;
 		margin: 20px;
 		
-	/*	width: 100%; /*
+	/*	width: 100%; */
+	  } 
+
+	  .rButtonTwo {
+		display: flex ;
+		justify-content: left 100px; 
+		font-size: 20px;
+		padding: 20px;
+		margin: 20px;
+		
+	/*	width: 100%; */
 	  } 
