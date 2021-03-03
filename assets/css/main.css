@@ -3225,8 +3225,8 @@ input, select, textarea {
 		display: flex ;
 		justify-content: space-between 20px; 
 		font-size: 20px;
-		text-align: center;
 		padding: 20px;
 		margin: 20px;
-		width: 100%;
+		align-content: left 100px;
+	/*	width: 100%; /*
 	  } 
