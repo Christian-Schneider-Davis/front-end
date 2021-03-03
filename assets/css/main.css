@@ -3221,12 +3221,12 @@ input, select, textarea {
 	}
 /* my code starts here */
 
-.navbar {
+.rButton {
 		display: flex ;
-		justify-content: space-between 20px; 
+		justify-content: left 100px; 
 		font-size: 20px;
 		padding: 20px;
 		margin: 20px;
-		align-content: left 100px;
+		
 	/*	width: 100%; /*
 	  } 
